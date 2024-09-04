@@ -1,0 +1,3 @@
+# test2/testB
+
+This folder is part of the repository structure.
